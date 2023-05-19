@@ -2,7 +2,7 @@
 This is the first project from the Relational Databases course from freeCodeCamp.
 I had to create a database from scratch with 5 tables and meeting the following criteria:
 
-**<big>Complete the tasks below</big>**
+**Complete the tasks below**
 1.	You should create a database named universe
 2.	Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
 3.	Each table should have a primary key
