@@ -1,4 +1,4 @@
-# celestial-bodies
+# Celestial Bodies Database
 This is the first project from the Relational Databases course from freeCodeCamp.
 I had to create a database from scratch with 5 tables and meeting the following criteria:
 
